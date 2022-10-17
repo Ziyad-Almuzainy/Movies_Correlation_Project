@@ -13,13 +13,13 @@ Find out what kinds of things affect movie revenues.We will be doing that for al
 
 ### Data Prepartion & Cleaning
 
-*Load the file using Pandas
+* Load the file using Pandas
 
 
-*Look at some information about the data & thr columns
+* Look at some information about the data & thr columns
 
 
-*Fix any missing or incorrect value
+* Fix any missing or incorrect value
 
 
 
