@@ -3,7 +3,7 @@ Repo for Movies Correlation of Data Science Project
 
 
 # # Data Science Project (Correlation) 
-**Find out what kinds of things affect movie revenues.We will be doing that for all of the fields that you see here and seeing what fields are directly correlated or highly correlated with gross revenue.
+Find out what kinds of things affect movie revenues.We will be doing that for all of the fields that you see here and seeing what fields are directly correlated or highly correlated with gross revenue.
 
 ## Resources Used 
 * **Python Version:** 3.9 
@@ -25,20 +25,20 @@ Repo for Movies Correlation of Data Science Project
 
 
 ## Types of Data 
-*name
-*rating
-*genre
-*year
-*released
-*votes
-*director
-*writer
-*star
-*country
-*budget
-*gross
-*company
-*runtime
+* name
+* rating
+* genre
+* year
+* released
+* votes
+* director
+* writer
+* star
+* country
+* budget
+* gross
+* company
+* runtime
  
 
 ## Summery 
