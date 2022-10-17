@@ -45,13 +45,13 @@ Find out what kinds of things affect movie revenues.We will be doing that for al
 
 **Insights:**
 
-*High corr between budjet and gross.
+* High corr between budjet and gross.
 
 
-*High corr between votes and gross.
+* High corr between votes and gross.
 
 
-*Company has low Correlation.
+* Company has low Correlation.
 
 
 **So Budjet and Votes Have Highest Correlation to Gross Earnings.**
